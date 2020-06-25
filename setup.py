@@ -92,8 +92,7 @@ setup(
     install_requires=[
         'pip>=20.1.1',
         'packaging>=20.4',
-        'setuptools>=44.1.1;python_version<"3.5"',
-        'setuptools>=47.3.1;python_version>="3.5"',
+        'setuptools>=47.3.1',
         'setuptools-scm',
         'wheel',
         'six',
