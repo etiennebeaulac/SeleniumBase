@@ -92,7 +92,7 @@ setup(
     install_requires=[
         'pip>=20.1.1',
         'packaging>=20.4',
-        'setuptools>=47.3.1',
+        'setuptools>=41.2.0',
         'setuptools-scm',
         'wheel',
         'six',
